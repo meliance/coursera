@@ -1,1 +1,1 @@
-Advanced React course in coursera
+Advanced React course at coursera
