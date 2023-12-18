@@ -1,9 +1,0 @@
-{
-    "reverse-proxy": [
-        {
-            "entrypoint": "/serve/",
-            "port": 3000,
-            "launchPath": "/"
-        }
-    ]
-}
